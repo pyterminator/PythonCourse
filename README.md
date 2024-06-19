@@ -61,3 +61,29 @@ Single & double quotes in string
 ## Dərs 5 - də öyrənəcəkləriniz 
 İnput funksiyası, mesajın verilməsi, istifadəçidən məlumatın alınması
 <hr> 
+
+## Dərs 30 - da öyrənəcəkləriniz 
+<ul>
+    <li>
+        tuple data type
+    </li>
+    <li>
+         tuple() built-in function | tuple constructor
+    </li>
+    <li>
+        tuple literal
+    </li>
+    <li>
+        tuple metodları
+    </li>
+    <li>
+        list və tuple fərqi
+    </li>
+    <li>
+        duplikat dəyərləri
+    </li>
+    <li>
+        slicing prosesi və indexing prosesi
+    </li>
+</ul> 
+<hr> 

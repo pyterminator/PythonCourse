@@ -63,3 +63,14 @@
 """
     İnput funksiyası, mesajın verilməsi, istifadəçidən məlumatın alınması
 """ 
+
+# Dərs 30 - da öyrənəcəkləriniz
+"""
+    tuple data type
+    tuple() built-in function | tuple constructor
+    tuple literal
+    tuple metodları
+    list və tuple fərqi
+    duplikat dəyərləri
+    slicing prosesi və indexing prosesi
+"""
