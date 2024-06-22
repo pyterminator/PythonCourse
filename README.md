@@ -62,6 +62,34 @@ Single & double quotes in string
 İnput funksiyası, mesajın verilməsi, istifadəçidən məlumatın alınması
 <hr> 
 
+## Dərs 6 - da öyrənəcəkləriniz 
+<ul>
+    <li>string modulu/kitabxanası</li>
+    <li>len funksiyası</li>
+    <li>sonuncu indeksin tapilmasi</li>
+    <li>dəyişən (variable) adları</li>
+    <li>IndentationError</li>
+    <li>dəyişən adlarını 3 cür sinifləndir :
+        <ul>
+            <li>snake_case</li>
+            <li>camelCase</li>
+            <li>PascalCase</li> 
+        </ul>
+    </li>
+    <li>string metodlarından :
+        <ul>
+            <li>capitalize</li>
+            <li>upper</li>
+            <li>lower</li>
+            <li>islower</li>
+            <li>isupper</li>
+            <li>title</li>
+            <li>istitle</li>
+        </ul>
+    </li> 
+</ul>    
+<hr>
+
 ## Dərs 30 - da öyrənəcəkləriniz 
 <ul>
     <li>

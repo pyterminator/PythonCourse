@@ -62,7 +62,28 @@
 # Dərs 5 - də öyrənəcəkləriniz 
 """
     İnput funksiyası, mesajın verilməsi, istifadəçidən məlumatın alınması
-""" 
+"""
+
+# Dərs 6 - da öyrənəcəkləriniz
+"""
+    string modulu/kitabxanası
+    len funksiyası
+    sonuncu indeksin tapilmasi
+    dəyişən (variable) adları
+    IndentationError
+    dəyişən adlarını 3 cür sinifləndir :
+        snake_case
+        camelCase
+        PascalCase
+    string metodlarından :
+        capitalize
+        upper
+        lower
+        islower
+        isupper
+        title
+        istitle
+"""
 
 # Dərs 30 - da öyrənəcəkləriniz
 """
