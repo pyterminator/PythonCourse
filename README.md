@@ -114,4 +114,4 @@ Single & double quotes in string
         slicing prosesi və indexing prosesi
     </li>
 </ul> 
-<hr> 
+<hr>

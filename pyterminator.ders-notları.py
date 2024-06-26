@@ -85,6 +85,11 @@
         istitle
 """
 
+# Dərs 7 - də öyrənəcəkləriniz
+"""
+
+"""
+
 # Dərs 30 - da öyrənəcəkləriniz
 """
     tuple data type
@@ -95,3 +100,35 @@
     duplikat dəyərləri
     slicing prosesi və indexing prosesi
 """
+
+# Dərs 36 - da öyrənəcəkləriniz
+""" 
+TASK 46
+İstifadəçidən [1-7] aralığında bir 
+ədəd daxil etməsini tələb edin.
+Ekrana həmin ədədə uyğun həftənin
+gününü yazdırın. 
+
+--- * ---
+
+while True:
+    number = int(input("Eded daxil et : "))
+    if number < 1 or number > 7:
+        continue
+    else:
+        match number:
+            case 1: print("Bazar ertəsi")
+            case 2: print("Çərşənbə axşamı")
+            case 3: print("Çərçənbə")
+            case 4: print("Cümə axşamı")
+            case 5: print("Cümə")
+            case 6: print("Şənbə")
+            case 7: print("Bazar")
+""" 
+
+# Dərs 37 və 38 - də öyrənəcəkləriniz
+"""
+    47, 48, 49, 50, 51, 52, 53, 54-cü taskları
+    və həmin taskların həllini
+"""
+
