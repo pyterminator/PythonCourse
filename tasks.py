@@ -61,4 +61,32 @@ Bir dənə də separator alın
 Ədədləri ekrana alt-alta yazdır.
 Əgər separator = l olarsa
 Ədədləri ekrana bitişik yazdır.
+
+TASK 55
+my_dict = {
+    "a":[45, 40, 50, 12],
+    "b":[45, 23, 12, 34, 56]
+}
+Yuxarıdakı dictionary-ə baxın. 56-nı ekrana necə yazdırarsınız ?
+
+TASK 56
+İki dənə dict datanı necə birləşdirə bilərsiniz ?
+my_dict_first = {
+    "a":"A",
+    "b":"B",
+}
+my_dict_second = {
+    "b":"B",
+    "c":"C"
+}
+
+TASK 57
+Aşağıdakı dictionary içərisində dəyəri list olan açar sözləri ekrana yazdır
+my_dict = {
+    "a":False,
+    "b":[],
+    "c":bool([1,2,3]),
+    "d":123_345,
+    "e":list((90,45,34))
+} 
 """
