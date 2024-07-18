@@ -88,5 +88,9 @@ my_dict = {
     "c":bool([1,2,3]),
     "d":123_345,
     "e":list((90,45,34))
-} 
+}
+
+TASK 58
+Limitsiz sayda ədəd ala bilən funksiya yazırsınız.
+Həmin ədədlərin sayını və ədədi ortasını hesablayıb qaytarsın.
 """
