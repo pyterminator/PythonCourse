@@ -93,4 +93,8 @@ my_dict = {
 TASK 58
 Limitsiz sayda ədəd ala bilən funksiya yazırsınız.
 Həmin ədədlərin sayını və ədədi ortasını hesablayıb qaytarsın.
+
+TASK 59
+Ədədin modulunu hesablayan funksiya yazın. 
+abs() funksiyası kimi çalışsın.
 """
