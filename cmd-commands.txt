@@ -1,0 +1,25 @@
+"""
+    chdir = cd
+    cd /
+    dir
+    cls
+    prompt $G
+    mkdir
+    type nul > hello.txt
+    rmdir
+    rmdir /s
+     
+
+    del file 
+    cd | clip
+    dir | clip 
+
+    echo "hello world"
+    echo "hello world" > file.txt
+    echo Hello > hello.txt
+     
+    ren(rename)
+    more file.txt
+    
+    exit
+"""
