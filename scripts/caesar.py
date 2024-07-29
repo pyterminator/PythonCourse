@@ -1,6 +1,7 @@
 from string import ascii_lowercase as al
 # abcdefghijklmnopqrstuvwxyz - 26
 # 01234567890123456789012345
+ 
 
 
 def Sezar_(word:str, key:int, encrypt:bool = True):
@@ -15,9 +16,14 @@ def Sezar_(word:str, key:int, encrypt:bool = True):
                     letter_index = letter_index % len(al)
                 new_word += al[letter_index]
             return new_word
-        else:
-            # Desifre et!
-            pass 
+        else: 
+            new_word = ""
+            for letter in word:
+                letter_index = al.find(letter) - key 
+                if letter_index < 0:
+                    letter_index = letter_index + len(al)
+                new_word += al[letter_index]
+            return new_word
     else: 
         raise Exception("Sezar funksiyası üçün göndərilmiş parametrlərin tipləri doğru deyil!")
 
@@ -28,5 +34,6 @@ def Sezar(word:str, key:int, encrypt:bool = True):
 
 
 
-result = Sezar("zer", 3)
+# result = Sezar("zer", 3) # chu
+result = Sezar("chu", 3, False) # zer
 print(result)
