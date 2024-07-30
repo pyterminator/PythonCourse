@@ -1,3 +1,5 @@
 copy.index.py
 index.py 
 main.py
+venv/
+TodoList/
