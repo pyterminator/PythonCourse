@@ -101,4 +101,7 @@ abs() funksiyası kimi çalışsın.
 TASK 60
 my_list = [90,9,8,-90,98,100,123,3.4,78,-1]
 Bu list içərisindəki minimum ədədi tapan funksiya yazın.
+
+TASK 61
+Ədədin bölənlərinin qaytaran funksiya yazın
 """
