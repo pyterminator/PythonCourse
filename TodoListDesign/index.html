@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PyTerm List</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="static/css/style.min.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon"
+        href="https://yt3.googleusercontent.com/s0PPZmZLtduGSf0Qv_LtUChAkquPvC8_eoz3oWRU_ID7EVdANQzyjDzYuz8kQRluC6xoqnoxoA=s160-c-k-c0x00ffffff-no-rj"
+        type="image/x-icon">
+</head>
+
+<body id="pyterm-list">
+
+
+    <header>
+        <h1>
+            PyTerm
+            <small>List</small>
+        </h1>
+    </header>
+    <div class="container">
+        <div class="search-and-mode">
+            <form action="" method="get">
+                <label for="search_item" class="fa-solid fa-magnifying-glass"></label>
+                <input type="text" id="search_item" name="search_item" autocomplete="off" required minlength="1">
+            </form>
+            <button>
+                <!-- <i class="fa-solid fa-sun"></i> -->
+                Dark <sup><i class="fa-solid fa-moon" style="font-size: .8rem;"></i></sup>
+            </button>
+        </div>
+
+        <div class="list">
+            <label class="item" for="item-1">
+                <input type="checkbox" id="item-1">
+                <div class="select-item"> 
+                    <span> <i></i> </span>
+                </div>
+                <div class="item-body">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti dolor dolorum obcaecati
+                    aspernatur repellendus iste a alias consequatur.
+                </div>
+            </label>
+            
+        </div>
+        <div class="add-btn">
+            <button>
+                <i class="fa-solid fa-plus"></i>
+            </button>
+        </div>
+    </div>
+</body>
+
+</html>
