@@ -115,3 +115,10 @@ Single & double quotes in string
     </li>
 </ul> 
 <hr>
+
+## Dərs 70 - də öyrənəcəkləriniz
+<p>
+    built-in funksiyalardan map() funksiyasını öyrənəcəksiniz.
+    Listin içərisindəki elementlərdən kök alıb yeni bir list hazırlayacaqsınız.
+</p>
+<hr/>
