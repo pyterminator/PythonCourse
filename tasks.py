@@ -111,4 +111,10 @@ my_list = [9, 0, 2, 4, 5, 6, 8, 7, 3, 1]
            
 Bu listdeki 2ci indeks ve 8-ci indeksde dayanan elementlerin yerini deyis.
 List bu sekilde olsun : [9, 0, 3, 4, 5, 6, 8, 7, 2, 1]
+
+TASK 63
+1092 ədədinin sadə bölənlərini ekrana yazdırın.
+
+TASK 64
+İki ədədin Əkobunu və Əbobunu tapan funksiyaları yazın.
 """
