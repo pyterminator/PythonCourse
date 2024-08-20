@@ -117,4 +117,12 @@ TASK 63
 
 TASK 64
 İki ədədin Əkobunu və Əbobunu tapan funksiyaları yazın.
+
+TASK 65
+Password validator yazın getsin
+Ən az 1 böyük hərf
+Ən az 1 kiçik hərf
+Ən az 1 rəqəm
+Ən az 1 dənə nöqtə
+Uzunluğu minimum 8 simvoldan ibarət olsun
 """
