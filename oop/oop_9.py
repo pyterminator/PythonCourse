@@ -4,28 +4,48 @@ Encapsulation
 Abstraction
 Polymorphism
 """
+from abc import ABC, abstractmethod
 
- 
-
-class User:
-
-    def About(self): return "Salam dunya!"
-
-class Customer(User):
+class BaseUser(ABC):
     
-    def About(self):
-        print("Salam dunya!")
+    @abstractmethod
+    def bio(self):pass 
+    
+    @abstractmethod
+    def About(self):pass 
+
+
+class User(BaseUser):
+    def bio(self): pass 
+    def About(self): pass
 
 user_1 = User()
-customer_1 = Customer()
+
+# ---------------------------------------------------------------------
 
 
-my_list = [user_1, customer_1]
+
+# class User:
+
+#     def About(self): return "Salam dunya!"
+
+# class Customer(User):
+    
+#     def About(self):
+#         print("Salam dunya!")
+
+# user_1 = User()
+# customer_1 = Customer()
 
 
-for element in my_list:
-    print(element.About())
+# my_list = [user_1, customer_1]
 
+
+# for element in my_list:
+#     print(element.About())
+
+
+# ---------------------------------------------------------------------
 
 # class User:
 
