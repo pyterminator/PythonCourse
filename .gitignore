@@ -1,6 +1,8 @@
 copy.index.py
 index.py 
-main.py
 venv/
 TodoList/
 chromedriver.exe
+tgbot/tgvenv
+__pycache__/
+.env
