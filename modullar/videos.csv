@@ -1,90 +1,98 @@
 Video names,Video views
-89. I used Selenium to get the titles and views of the videos on my channel #mənimləpythonöyrən,11
-88. Selenium - Python | How to scroll down the page till bottom #mənimləpythonöyrən,13
-"87. Selenium - Python | FindElement, By, WebDriverWait #mənimləpythonöyrən",25
-86. Install selenium & Chrome web driver #mənimləpythonöyrən,11
-85. Introduction to Numpy #mənimləpythonöyrən,12
-84. Bar plot in Python|Matplotlib #mənimləpythonöyrən,11
-83. Python zip() function #mənimləpythonöyrən,10
-82. Introduction to Matplotlib #mənimləpythonöyrən,45
-81. Installation Matplotlib library #mənimləpythonöyrən,55
-80. Introduction to Pandas #mənimləpythonöyrən,56
-"79. Datetime, timedelta #mənimləpythonöyrən",42
-78. Shutil module in python & Create file/folder #mənimləpythonöyrən,30
-77. re.finditer() & .group() | Regular expression (RegEx) - 5 #mənimləpythonöyrən,64
-76. PasswordChecker | Python - Regular expression (RegEx) - 4 #mənimləpythonöyrən,32
-75. Python - Regular expression (RegEx) - 3 #mənimləpythonöyrən,12
-74. Python - Regular expression (RegEx) - 2 #mənimləpythonöyrən,60
-73. Python any() function #mənimləpythonöyrən,33
-72. Python - Regular expression (RegEx) - 1 #mənimləpythonöyrən,27
-71. Prime factors in python #mənimləpythonöyrən,30
-70. Python map() function #mənimləpythonöyrən,40
-69. Python Program for Selection Sort #mənimləpythonöyrən,19
-68. Selection Sort Algorithm Explanation + Task solution #mənimləpythonöyrən,15
-67. Linear Search Algorithm #mənimləpythonöyrən,39
-66. How to solve FizzBuzz ? #mənimləpythonöyrən,76
-65. Happy Numbers + filter() #mənimləpythonöyrən,30
-64. Task solution (all the divisors of a number) #mənimləpythonöyrən,14
-63. Decorators in Python #mənimləpythonöyrən,36
-62. Creation of virtual environment #mənimləpythonöyrən,49
-61. Caesar cipher - decode #mənimləpythonöyrən,31
-60. Cryptography with Python - Caesar Cipher #mənimləpythonöyrən,27
-59. Recursion in python - Factorial #mənimləpythonöyrən,28
-58. Custom min() function in Python #mənimləpythonöyrən,43
-57. Recursion in python #mənimləpythonöyrən,19
-56. Python os module (operating system) #mənimləpythonöyrən,34
-"55. Identity operators (is, is not) & Custom sum() function (task solution) #mənimləpythonöyrən",29
-54. Custom abs() function (task solution) #mənimləpythonöyrən,33
-53. Timer (task solution) #mənimləpythonöyrən,55
-52. Average function Python #mənimləpythonöyrən,18
-51. Python googletrans module #mənimləpythonöyrən,33
-50. Keyword arguments in python function #mənimləpythonöyrən,28
-49. Portable password input in Python #mənimləpythonöyrən #python,54
-"48. ""Return"" keyword and unlimited arguments in python functions #mənimləpythonöyrən",28
-47. About my python videos #mənimləpythonöyrən,35
-46. Dictionary concatenate in python and solving some tasks #mənimləpythonöyrən,37
-45. Python functions #mənimləpythonöyrən,25
-"44. Python - RPG, Copy2Clipboard #mənimləpythonöyrən",16
-43. Python - Ədəd təxmin etmə oyunu yazırıq #mənimləpythonöyrən,57
-42. Comprehensions in Python #mənimləpythonöyrən,41
-41. Python random module - 2 #mənimləpythonöyrən,24
-40. Python random module - 1 #mənimləpythonöyrən,37
-39. Python dictionary methods #mənimləpythonöyrən,15
-38. Problem solving in Python #mənimləpythonöyrən,39
-37. Let's solve some tasks in Python #mənimləpythonöyrən,27
-36. Task solution - Python #mənimləpythonöyrən,22
-35. Dictionaries in Python #mənimləpythonöyrən,17
-34. Python set methods #mənimləpythonöyrən,42
-33. The intersection() method returns a new set #mənimləpythonöyrən,19
-32. The discard() method removes the specified item from the set. #mənimləpythonöyrən,21
-31. Python sets #mənimləpythonöyrən,56
-"30. Python tuple, tuple methods #mənimləpythonöyrən",20
-29. Python list methods #mənimləpythonöyrən,15
-28. Python lists and some list methods #mənimləpythonöyrən,16
-"27. if __name__ == ""__main__"" #mənimləpythonöyrən",27
-"26. Termcolor module, Python #mənimləpythonöyrən",10
-25. Math module in Python #mənimləpythonöyrən,11
-24. Python Escape Characters #mənimləpythonöyrən,17
-23. Membership operators & Logical operators in Python #mənimləpythonöyrən,31
-"22. divmod() function, break and continue statements in python #mənimləpythonöyrən",17
-21. Built-in functions in Python #mənimləpythonöyrən,31
-20. Python abs() Function #mənimləpythonöyrən,32
-19. Python Assignment Operators #mənimləpythonöyrən,26
-18. Python loops - 2 #mənimləpythonöyrən,36
-17. Python loops - 1 #mənimləpythonöyrən,21
-"16. Python Error Handling, Try-Except-Else-Finally #mənimləpythonöyrən",17
-"15. Ternary operator in Python, Python Online Compiler #mənimləpythonöyrən",25
-14. Booleans are a subtype of integer + Explicit line joining + 6 task solution #mənimləpythonöyrən,38
-13. Python Match Case Statement #mənimləpythonöyrən,44
-"12. Control Flow in Python, String repitition, Range function + 3 task #mənimləpythonöyrən",32
-11. Download Thonny IDE for Python #mənimləpythonöyrən,28
-10. Python Comparison Operators #mənimləpythonöyrən,42
-"9. Primitive data types, Mathematical operators, Exec/Eval functions + 3 TASK #mənimləpythonöyrən",41
-8. Numeric Literal Separator in Python and Boolean Data Type + 3 task,33
-7. String methods in Python #mənimləpythonöyrən,42
-6. Variable name and some string methods #mənimləpythonöyrən,53
-5. Input function in Python #mənimləpythonöyrən,66
-4. Comment lines and string literals in Python #mənimləpythonöyrən,93
-3. Download VsCode and run python code + Set Default Profile etc.. #mənimləpythonöyrən,91
-2. Python numeric data types and literals explanation #mənimləpythonöyrən,155
-1. Download python and open python shell - #mənimləpythonöyrən,286
+97. Python telegram bot - 5 - Deploy #mənimləpythonöyrən,81
+96. Python telegram bot - 4 - CallbackQueryHandler #mənimləpythonöyrən,70
+95. Python telegram bot - 3 - send quiz #mənimləpythonöyrən,54
+94. Python telegram bot - 2 - replay to message #mənimləpythonöyrən,40
+93. Single Responsibility Principle (SRP) of SOLID #mənimləpythonöyrən,35
+92. Python telegram bot - 1 #mənimləpythonöyrən,180
+"91. Pie & Barh chart | Matplotlib, Pandas #mənimləpythonöyrən",42
+90. Export Pandas DataFrame to a CSV file & Get video count with Selenium #mənimləpythonöyrən,23
+89. I used Selenium to get the titles and views of the videos on my channel #mənimləpythonöyrən,28
+88. Selenium - Python | How to scroll down the page till bottom #mənimləpythonöyrən,52
+"87. Selenium - Python | FindElement, By, WebDriverWait #mənimləpythonöyrən",39
+86. Install selenium & Chrome web driver #mənimləpythonöyrən,37
+85. Introduction to Numpy #mənimləpythonöyrən,18
+84. Bar plot in Python|Matplotlib #mənimləpythonöyrən,16
+83. Python zip() function #mənimləpythonöyrən,22
+82. Introduction to Matplotlib #mənimləpythonöyrən,55
+81. Installation Matplotlib library #mənimləpythonöyrən,64
+80. Introduction to Pandas #mənimləpythonöyrən,62
+"79. Datetime, timedelta #mənimləpythonöyrən",52
+78. Shutil module in python & Create file/folder #mənimləpythonöyrən,33
+77. re.finditer() & .group() | Regular expression (RegEx) - 5 #mənimləpythonöyrən,82
+76. PasswordChecker | Python - Regular expression (RegEx) - 4 #mənimləpythonöyrən,35
+75. Python - Regular expression (RegEx) - 3 #mənimləpythonöyrən,17
+74. Python - Regular expression (RegEx) - 2 #mənimləpythonöyrən,64
+73. Python any() function #mənimləpythonöyrən,36
+72. Python - Regular expression (RegEx) - 1 #mənimləpythonöyrən,31
+71. Prime factors in python #mənimləpythonöyrən,31
+70. Python map() function #mənimləpythonöyrən,41
+69. Python Program for Selection Sort #mənimləpythonöyrən,20
+68. Selection Sort Algorithm Explanation + Task solution #mənimləpythonöyrən,17
+67. Linear Search Algorithm #mənimləpythonöyrən,41
+66. How to solve FizzBuzz ? #mənimləpythonöyrən,78
+65. Happy Numbers + filter() #mənimləpythonöyrən,32
+64. Task solution (all the divisors of a number) #mənimləpythonöyrən,16
+63. Decorators in Python #mənimləpythonöyrən,39
+62. Creation of virtual environment #mənimləpythonöyrən,52
+61. Caesar cipher - decode #mənimləpythonöyrən,34
+60. Cryptography with Python - Caesar Cipher #mənimləpythonöyrən,32
+59. Recursion in python - Factorial #mənimləpythonöyrən,30
+58. Custom min() function in Python #mənimləpythonöyrən,45
+57. Recursion in python #mənimləpythonöyrən,20
+56. Python os module (operating system) #mənimləpythonöyrən,37
+"55. Identity operators (is, is not) & Custom sum() function (task solution) #mənimləpythonöyrən",31
+54. Custom abs() function (task solution) #mənimləpythonöyrən,34
+53. Timer (task solution) #mənimləpythonöyrən,58
+52. Average function Python #mənimləpythonöyrən,19
+51. Python googletrans module #mənimləpythonöyrən,37
+50. Keyword arguments in python function #mənimləpythonöyrən,30
+49. Portable password input in Python #mənimləpythonöyrən #python,66
+"48. ""Return"" keyword and unlimited arguments in python functions #mənimləpythonöyrən",30
+47. About my python videos #mənimləpythonöyrən,38
+46. Dictionary concatenate in python and solving some tasks #mənimləpythonöyrən,39
+45. Python functions #mənimləpythonöyrən,27
+"44. Python - RPG, Copy2Clipboard #mənimləpythonöyrən",18
+43. Python - Ədəd təxmin etmə oyunu yazırıq #mənimləpythonöyrən,60
+42. Comprehensions in Python #mənimləpythonöyrən,42
+41. Python random module - 2 #mənimləpythonöyrən,25
+40. Python random module - 1 #mənimləpythonöyrən,38
+39. Python dictionary methods #mənimləpythonöyrən,16
+38. Problem solving in Python #mənimləpythonöyrən,41
+37. Let's solve some tasks in Python #mənimləpythonöyrən,31
+36. Task solution - Python #mənimləpythonöyrən,23
+35. Dictionaries in Python #mənimləpythonöyrən,19
+34. Python set methods #mənimləpythonöyrən,44
+33. The intersection() method returns a new set #mənimləpythonöyrən,20
+32. The discard() method removes the specified item from the set. #mənimləpythonöyrən,23
+31. Python sets #mənimləpythonöyrən,57
+"30. Python tuple, tuple methods #mənimləpythonöyrən",23
+29. Python list methods #mənimləpythonöyrən,17
+28. Python lists and some list methods #mənimləpythonöyrən,19
+"27. if __name__ == ""__main__"" #mənimləpythonöyrən",32
+"26. Termcolor module, Python #mənimləpythonöyrən",12
+25. Math module in Python #mənimləpythonöyrən,13
+24. Python Escape Characters #mənimləpythonöyrən,22
+23. Membership operators & Logical operators in Python #mənimləpythonöyrən,32
+"22. divmod() function, break and continue statements in python #mənimləpythonöyrən",18
+21. Built-in functions in Python #mənimləpythonöyrən,35
+20. Python abs() Function #mənimləpythonöyrən,34
+19. Python Assignment Operators #mənimləpythonöyrən,29
+18. Python loops - 2 #mənimləpythonöyrən,47
+17. Python loops - 1 #mənimləpythonöyrən,26
+"16. Python Error Handling, Try-Except-Else-Finally #mənimləpythonöyrən",23
+"15. Ternary operator in Python, Python Online Compiler #mənimləpythonöyrən",33
+14. Booleans are a subtype of integer + Explicit line joining + 6 task solution #mənimləpythonöyrən,44
+13. Python Match Case Statement #mənimləpythonöyrən,54
+"12. Control Flow in Python, String repitition, Range function + 3 task #mənimləpythonöyrən",44
+11. Download Thonny IDE for Python #mənimləpythonöyrən,38
+10. Python Comparison Operators #mənimləpythonöyrən,50
+"9. Primitive data types, Mathematical operators, Exec/Eval functions + 3 TASK #mənimləpythonöyrən",63
+8. Numeric Literal Separator in Python and Boolean Data Type + 3 task,59
+7. String methods in Python #mənimləpythonöyrən,66
+6. Variable name and some string methods #mənimləpythonöyrən,90
+5. Input function in Python #mənimləpythonöyrən,97
+4. Comment lines and string literals in Python #mənimləpythonöyrən,140
+3. Download VsCode and run python code + Set Default Profile etc.. #mənimləpythonöyrən,129
+2. Python numeric data types and literals explanation #mənimləpythonöyrən,230
+1. Download python and open python shell - #mənimləpythonöyrən,426
