@@ -6,4 +6,5 @@ chromedriver.exe
 tgbot/tgvenv
 __pycache__/
 .env
+dbvenv/
 PytermLingo/
